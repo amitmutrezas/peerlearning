@@ -54,3 +54,6 @@ group :test do
   gem 'simplecov', :require => false
 end
 
+gem 'rails_12factor', group: :production
+ruby "2.2.3"
+
